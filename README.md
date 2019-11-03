@@ -3,10 +3,7 @@ Assignment 1 for Mobile App Development
 
 <img width="271" alt="screen shot 2018-11-05 at 00 44 47" src="https://user-images.githubusercontent.com/16647291/47972523-0432ff00-e095-11e8-9199-7aa41f336024.png">
 <img width="269" alt="screen shot 2018-11-05 at 00 41 45" src="https://user-images.githubusercontent.com/16647291/47972544-32184380-e095-11e8-8b3f-15adb2b2ad88.png">
-
-
-'user@wit.ie' is pre registered
-password is 'root'
+<img width="269" alt="screen shot 2018-11-05 at 00 41 45" src="https://user-images.githubusercontent.com/16647291/68093215-37b48f00-fe8b-11e9-9713-101ce5fef837.png">
 
 ## Features
 
@@ -23,6 +20,7 @@ password is 'root'
 - Custom Styles & layouts.
 - All strings called from strings.xml file.
 - Github commit history with multiple releases and a branching model used.
+- Map View containing all hillforts and when clicked the title, description nd image are displayed.
 
 
 
